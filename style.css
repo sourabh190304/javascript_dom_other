@@ -1,0 +1,30 @@
+.bg-primary{
+            background-color: blueviolet;
+        
+        }
+       
+        .container{
+            border: 2px solid red;
+            margin: 3px 0;
+           background-color: rgb(173, 243, 243);
+            padding: 9px;
+        }
+        .text{
+            color: green;
+        }
+ body{
+    background-color: pink;
+ }
+ h1{
+    color: black;
+    background-color: yellow;
+ }
+ button{
+color: aliceblue;
+background-color: black;
+ }
+
+ .container{
+    background-color: rgb(168, 234, 212);
+    box-shadow: rgb(168, 201, 190) 10px 10px ;
+ }
